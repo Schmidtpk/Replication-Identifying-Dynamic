@@ -1,0 +1,11 @@
+Package: ReplicationIdentifyingDynamic
+Type: Package
+Title: Replication package for “Identifying dynamic shifts to careless and insufficient effort behavior in questionnaire responses; A novel approach and experimental validation”
+Version: 0.1.0
+Author: Patrick Schmidt, Zachary Roman
+Maintainer: Patrick Schmidt <pschmidte@gmail.com>
+Description: Replication package. See readme.txt for details. Raw and curated data is contained in separate package DynExpData. See https://github.com/Schmidtpk/DynExpData.
+License: C0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
